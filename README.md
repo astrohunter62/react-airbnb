@@ -28,7 +28,7 @@ For administration:
 
 To install the project, run the following commands:
 
--   git clone https://github.com/phuongvu0804/reactJS_airbnb.git
+-   git clone https://github.com/astrohunter62/react-airbnb.git
 -   cd meditation-app
 
 To run the project, run the following command:
