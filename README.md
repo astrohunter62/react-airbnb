@@ -40,19 +40,6 @@ To experience more the project, try to sign in with this account:
 -   username: test-account@gmail.com
 -   password: 123456Phuong@
 
-## Contributors
-
-This project has been done thanks to these awesome contributors:
-
-<table>
-  <tr>
-    <!-- Phuong Vu -->
-    <td align="center"><a href="https://github.com/phuongvu0804"><img src="https://avatars.githubusercontent.com/u/99994868?v=4" width="85px;" alt=""/><br /><sub><b>Phuong Vu (Chloe)</b></sub></a><br /><a href="https://github.com/scoobytux/movielab/commits?author=phuongvu0804" title="Code">💻</a><a href="https://github.com/scoobytux/movielab/commits?author=phuongvu0804" title="Documentation">📖</a></td>
-    <!-- Tu Le -->
-    <td align="center"><a href="https://github.com/scoobytux"><img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="85px;" alt=""/><br /><sub><b>Tu Le (Liam)</b></sub></a><br /><a href="https://github.com/scoobytux/movielab/commits?author=scoobytux" title="Code">💻</a><a href="https://github.com/scoobytux/movielab/commits?author=scoobytux" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
 ## Attribution
 
 The following sources have been used for reference purposes.
